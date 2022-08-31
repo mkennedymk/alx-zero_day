@@ -1,1 +1,1 @@
-project on setting up github
+project on learning and understanding github interface
